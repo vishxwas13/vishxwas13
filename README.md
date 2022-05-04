@@ -1,9 +1,9 @@
 - 👋 Hi, I’m vishwas sharma
-- 👀 I’m interested in Designing and Programming.
+- 👀 I’m proficient in Coding/Programming and Data structures and Algorithms.
 - 🌱 I’m currently pursuing B-tech.
 - ☕️ Proficiency in java Language.
-- 🙇🏻‍♂️ Learning Data structures and algorithms
-- 💞️ I’m looking to collaborate on frontend and backend projects.
+- 🙇🏻‍♂️ Experience in many Technologies like Web Development: ReactJS, App Development: kotlin, UI/UX: Figma, Google CLoud.
+- 💞️ I’m looking to contribute in open source frontend and backend projects.
 - 📫 How to reach me ... ✉️ vishwassharma332@gmail.com , @vishxwas31 , 8279510767.
 
 <!---
