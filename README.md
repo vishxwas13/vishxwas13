@@ -1,5 +1,5 @@
 - 👋 Hi, I’m vishwas sharma
-- 👀 I’m proficient in Coding/Programming and Data structures and Algorithms.
+- 👀 I’m proficient Data structures and Algorithms.
 - 🌱 I’m currently pursuing B-tech.
 - ☕️ Proficiency in java Language.
 - 🙇🏻‍♂️ Experience in many Technologies like Web Development: ReactJS, App Development: kotlin, UI/UX: Figma, Google CLoud.
